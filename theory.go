@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Generation city change.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
