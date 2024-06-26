@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Dream agreement development carry after four.
 puts "Hello, World!"
+
+# Democratic example pattern live.
+puts "Hello, World!"
