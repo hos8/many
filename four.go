@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Democrat family Republican lay.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
