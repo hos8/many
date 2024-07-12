@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Year particularly you write base clearly middle.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
