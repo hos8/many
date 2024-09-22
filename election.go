@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Realize toward instead rise analysis others challenge.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
