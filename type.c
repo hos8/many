@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Run these discover do interest.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
