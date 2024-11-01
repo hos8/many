@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Event across range.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
