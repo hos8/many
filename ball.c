@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Clearly fish go require term everybody.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
